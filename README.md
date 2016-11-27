@@ -2,14 +2,14 @@
 Multiple view type in recyclerview
 
 
-<img src="https://github.com/sunil676/MultiTypeRecyclerView/blob/master/Screenshot_20161127-115559.png" width="400" height="750"/>
-<img src="https://github.com/sunil676/MultiTypeRecyclerView/blob/master/Screenshot_20161127-115606.png" width="400" height="750"/>
+<img src="https://github.com/sunil676/MultiTypeRecyclerView/blob/master/Screenshot_20161127-115559.png" width="400" height="700"/>
+<img src="https://github.com/sunil676/MultiTypeRecyclerView/blob/master/Screenshot_20161127-115606.png" width="400" height="700"/>
 
 LINK:
 
 MyBlog tutorial:
 
-http://www.sunilandroid.com
+http://www.sunilandroid.com/2016/11/multiple-view-type-in-recyclerview-in.html
 
 Copyright 2016 Sunil Gupta
 
